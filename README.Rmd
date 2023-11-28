@@ -46,7 +46,6 @@ pak::pak("{{ gh_repo }}")
 
 These examples illustrate some of the current functionalities
 
-
 ## Development
 
 ### Lifecycle

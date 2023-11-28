@@ -17,7 +17,7 @@ coverage](https://codecov.io/gh/epiverse-trace/testpkg/branch/main/graph/badge.s
 [![lifecycle-concept](https://raw.githubusercontent.com/reconverse/reconverse.github.io/master/images/badge-concept.svg)](https://www.reconverse.org/lifecycle.html#concept)
 <!-- badges: end -->
 
-packagetemplate provides functions to ….
+packagetemplate is a sandbox to test packagetemplate features.
 
 <!-- This sentence is optional and can be removed -->
 

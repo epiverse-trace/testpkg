@@ -1,6 +1,6 @@
 Package: packagetemplate
 Title: Your Package Title in Titlecase
-Version: 0.0.1
+Version: 0.1.0
 Authors@R: c(
     person(given = "James M.", family = "Azam", , email = "james.azam@lshtm.ac.uk", role = c("aut"),
            comment = c(ORCID = "https://orcid.org/0000-0001-5782-7330")),
